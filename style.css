@@ -1,0 +1,10 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    height:300px;
+    width:450px;
+}
+.indiImg{
+    margin-right:0.7px;
+    margin-bottom:0.7px;
+}
